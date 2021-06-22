@@ -2,17 +2,18 @@ body {
     font-family: Orbitron;
     width: 100%;
     margin: 0;
+    color: #17D4FE;
+    background-color: #000;
+    font-size: 70px;
 }
 
 #root {
-    font-size: 40px;
     margin: 20% auto 0%;
     width: fit-content;
     height: auto;
 }
 
 #root-two {
-    font-size: 40px;
     margin: auto;
     width: fit-content;
     height: auto;
